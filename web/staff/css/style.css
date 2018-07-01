@@ -1,0 +1,15 @@
+@charset "utf-8";
+body, div, address, blockquote, iframe, ul, ol, dl, dt, dd, li, dl, h1, h2, h3, h4, h5, h6, p, pre, table, caption, th, td, form, legend, fieldset, input, button, select, textarea, p {margin:0; padding:0; font-weight: normal;font-style: normal;font-size: 100%; font-family: inherit;}
+body { font-size:12px; font-family:Arial, Helvetica, sans-serif; background: #CCCCCC; color:#555555;}
+
+html { -webkit-text-size-adjust:none; }
+ol, ul ,li{list-style: none;}
+a { text-decoration:none; cursor:pointer;}
+img {border: 0; }
+
+#web { width:970px; height:680px; background:url(../images/bg.png) no-repeat; margin:0px auto;}
+#web .login {  width: 300px; height:220px; margin:0px auto; background:#F7F7F9; border:1px solid #ddd;}
+#web .login .logmain { width:300px; height:220px; floa:right;}
+#web .login .logmain h1 { height:30px; display:block; line-height:30px;}
+.more { display:block; float:right; color:#3C8DB5; margin-right:30px; color:#3C8DB5;}
+.btnbg { width:203px; height:40px; background:url(../images/btnbg.png) no-repeat; text-align:center; line-height:40px; color:#FFFFFF; font-weight:bold; border:0px; cursor:pointer;}
